@@ -7,6 +7,6 @@ In summary, "Hiding Text in Images Using Steganography" is a project designed to
 
 
 STEPS TO USE THE PROGRAM:-
-1. Replace the paths of the image to be encrypted in the code.
+1. Provide the input for the respective prompts.
 2. The program can only be used to encrypt an image and then again decrypt the encrypted image generated for the same. Decrypting other images using this program isn't possible.
-3. The encrypted image will be genrated in the same directory or folder as the source image.
+3. Save the output image with the same extension as the input image.
